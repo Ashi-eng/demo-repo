@@ -1,2 +1,2 @@
 # demo-repo
-testing
+This repo is for testing git operations
